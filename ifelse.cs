@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Group_Project_C_solo
 {
-    internal class Iecs1sy
+    internal class Ifelse
     {
         static void Main(string[] args)
         {
