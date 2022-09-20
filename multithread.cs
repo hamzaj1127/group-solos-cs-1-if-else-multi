@@ -2,7 +2,7 @@
 using System.Threading;
 namespace threading
 {
-    class Program
+    class multithread
     {
         static void Main(string[] args)
         {
